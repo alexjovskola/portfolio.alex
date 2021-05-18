@@ -1,0 +1,123 @@
+h1 {
+  font-size: 60px;
+  font-family: "Open Sans", sans-serif;
+  position: absolute;
+  top: 200px;
+  left: 70px;
+  color: #57595d;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 280px;
+  left: 70px;
+  color: grey;
+}
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 350px;
+  left: 70px;
+  display: inline-block;
+  column-count: 4;
+  color: grey;
+}
+
+.porto {
+  color: black;
+  font-weight: 300;
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  position: absolute;
+  left: 1400px;
+}
+
+.afterbear {
+  width: 300px;
+  position: absolute;
+  top: 1100px;
+  left: 320px;
+}
+.beforebear {
+  width: 300px;
+  position: absolute;
+  top: 1100px;
+}
+.beforep {
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 1040px;
+  left: 70px;
+}
+.afterp {
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 1040px;
+  left: 420px;
+}
+.beforedeer {
+  width: 425px;
+  position: absolute;
+  top: 1102.5px;
+  left: 700px;
+}
+.afterdeer {
+  width: 440px;
+  position: absolute;
+  top: 1084px;
+  left: 1150px;
+}
+.instagrampic {
+  width: 150px;
+  position: absolute;
+  top: 400px;
+  left: 70px;
+}
+.facebookpic {
+  width: 130px;
+  position: absolute;
+  top: 408px;
+  left: 230px;
+}
+.beforepp {
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 1040px;
+  left: 850px;
+}
+.afterpp {
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  position: absolute;
+  top: 1040px;
+  left: 1300px;
+}
+.logo {
+  width: 1000px;
+  position: absolute;
+  top: 0px;
+  left: 600px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.mywork {
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: 900px;
+  left: 70px;
+}
