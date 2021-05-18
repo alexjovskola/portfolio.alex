@@ -28,15 +28,6 @@ h3 {
   color: grey;
 }
 
-.porto {
-  color: black;
-  font-weight: 300;
-  font-size: 20px;
-  font-family: "Open Sans", sans-serif;
-  position: absolute;
-  left: 1400px;
-}
-
 .afterbear {
   width: 300px;
   position: absolute;
@@ -120,4 +111,25 @@ html {
   position: absolute;
   top: 900px;
   left: 70px;
+}
+.topnav {
+  background-color: grey;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: grey;
+  color: white;
 }
