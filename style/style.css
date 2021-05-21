@@ -55,16 +55,16 @@ h3 {
   left: 360px;
 }
 .beforedeer {
-  width: 320px;
+  width: 325px;
   position: absolute;
   top: 1102.5px;
   left: 550px;
 }
 .afterdeer {
-  width: 335px;
+  width: 339.5px;
   position: absolute;
   top: 1084px;
-  left: 920px;
+  left: 924.1px;
 }
 .instagrampic {
   width: 100px;
@@ -84,7 +84,7 @@ h3 {
   font-weight: normal;
   position: absolute;
   top: 1040px;
-  left: 650px;
+  left: 660px;
 }
 .afterpp {
   font-size: 30px;
@@ -92,13 +92,13 @@ h3 {
   font-weight: normal;
   position: absolute;
   top: 1040px;
-  left: 1000px;
+  left: 1055px;
 }
 .logo {
-  width: 800px;
+  width: 600px;
   position: absolute;
-  top: 0px;
-  left: 600px;
+  top: 80px;
+  left: 663px;
 }
 html {
   scroll-behavior: smooth;
